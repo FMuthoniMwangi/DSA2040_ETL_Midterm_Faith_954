@@ -1,7 +1,6 @@
 __pycache__/
 .ipynb_checkpoints/
 *.db
-*.parquet
 *.pyc
 .DS_Store
 *.pyo
