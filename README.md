@@ -25,7 +25,7 @@ This project demonstrates a full ETL (Extract, Transform, Load) pipeline for ord
 - **Storage:** The cleaned and transformed data is saved in Parquet format within the `loaded/` directory for optimized analytics workflows.
 - **Verification:** Data previews are shown to confirm the load was successful.
 
-### Visualization (or Unique Transformation)
+### Visualization 
 
 - **Visualization:** Business insights are communicated with charts such as "Order Counts by Region" and "Total Sales Over Time," generated using matplotlib.
 
