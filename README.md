@@ -52,8 +52,8 @@ This project demonstrates a full ETL (Extract, Transform, Load) pipeline for ord
 ### Installation
 
 ```bash
-git clone https://github.com/[your-username]/[your-repo].git
-cd [your-repo]
+git clone https://github.com/FMuthoniMwangi/DSA2040_ETL_Midterm_Faith_954.git
+cd DSA2040_ETL_Midterm_Faith_954
 pip install -r requirements.txt
 ```
 
